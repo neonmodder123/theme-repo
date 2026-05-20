@@ -1,4 +1,8 @@
-[
+{
+  "repo_name": "neonrepo",
+  "repo_author": "neonmodder123", 
+  "repo_icon": "https://github.com/neonmodder123.png",
+  "themes": [
   {
     "name": "Among Us",
     "description": "When the impostor is sus.",
